@@ -1,4 +1,10 @@
+## PreReq
+
+Provide environment file with FireBase credentials under src/environments.
+Refer to angular-cli.json for environment file names
+
 # CustRegistration
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.2.
 
