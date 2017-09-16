@@ -1,0 +1,8 @@
+<p>
+  show-users works!
+</p>
+<ul>
+  <li class="text" *ngFor="let item of items | async">
+    {{item.username}}: {{item.firstname}}, {{item.lastname}}
+  </li>
+</ul>
